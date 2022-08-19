@@ -1,0 +1,1 @@
+print(admin.bookAppointment('Pediatrician', 'Tuesday', datetime(2020,6,9,14,0,0), datetime(2020,6,9,14,30,0) ) )
